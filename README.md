@@ -8,6 +8,10 @@
 ### Introduction
 #### The aim of our project is to allow at the user to know the minimun, maximun, average and trend value of a specific company by passing the company name or the symbol of the company as a parameter.
 
+### Analysis
+The first step was the analysis, based on the requested functions we proposed a solution invididually. We decided to work as a team and reduce the unnecessary efforts that ussually the company would'have had to pay. The aim was to focus on the primary tasks and produce a bug free product.
+One target we kept in mind was the simplification of the symbol research we used an already existing api to get the api name from the symbol and vice versa
+
 ### Technologies
 #### The project runs on Python 3.9. The information we used to perform the tasks is provided by the following API:
 https://www.alphavantage.co/query?function=TIME_SERIES_WEEKLY&symbol=FCAU&apikey=F3FV4ARAKOYQT44K. 
