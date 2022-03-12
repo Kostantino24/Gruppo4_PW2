@@ -1,5 +1,5 @@
 # Project Work Group 4
-## Indice 
+## Index
 
 - [Introduction](#Introduction)
 - [Technologies](#technologies)
